@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jambo199</h1>
-<h3 align="center">A 15 Year Old Passionate About Coding</h3>
+<h3 align="center">A 16 Year Old Passionate About Coding</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jambo199&label=Profile%20views&color=0e75b6&style=flat" alt="jambo199" /> </p>
 
-- 🔭 I’m currently working on [AutoFishBot](https://github.com/Jambo199/AutoFishBot)
+- 🔭 I’m currently working on: 
 
 - 🌱 I’m currently learning **Python**
-
-- 🤝 I’m looking for help with [AutoFishBot](https://github.com/Jambo199/AutoFishBot)
 
 - 📫 How to reach me **Jambo199.yt@gmail.com**
 
